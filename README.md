@@ -1,4 +1,4 @@
-# portfolio
+# Hi there, This is Erdem Sevim.
 
 I am a Problem Solver and Answer Finder. 
 
