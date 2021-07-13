@@ -5,7 +5,7 @@
 
 I have my Bachelor Degree in Mechanical Engineering from [Koc University](https://www.ku.edu.tr/en/) as one of the Best Universities of Turkey. On my 3+ years of experience in Aerospace and Automotive Industry on Quality and Program Coordination, I grow my enthusiasm in data and enjoy finding insights from raw data. Currently pursuing my [higher education](https://www.georgebrown.ca/programs/applied-ai-solutions-development-program-t431) in Data Science and enhancing my skill set on various domains.
 
-Skills: Python / HTML / Hadoop / Tableau / PowerBI
+Skills: Python / SQL / HTML / Hadoop / Tableau / PowerBI
 
 - 🔭 I’m currently working on Computer Vision 
 - 🌱 Currently learning OpenCV 
