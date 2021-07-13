@@ -1,4 +1,4 @@
-# Hi there, This is Erdem Sevim.
+# Hi there, This is Erdem :wave:
 
 I am a Problem Solver and Answer Finder. 
 
