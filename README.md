@@ -8,8 +8,8 @@ I have my Bachelor Degree in Mechanical Engineering from [Koc University](https:
 Skills: Python / HTML / Hadoop / Tableau / PowerBI
 
 - 🔭 I’m currently working on Computer Vision 
-- 🌱 I’m currently learning OpenCV 
-- 👯 I’m looking to collaborate on Big Data Analysis 
+- 🌱 Currently learning OpenCV 
+- 👯 Looking to collaborate on Big Data Analysis 
 - ⚡ Fun facts: 
   - Travelled around in Europe, Asia and Americas then settled in Toronto
   - Father of Luna 😺 
