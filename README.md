@@ -1,6 +1,5 @@
 ## Hi there 👋, This is Erdem
 ### Data Science and Machine Learning
-![Data Science and Machine Learning](https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif)
 
 <img src="https://frogdesign.nyc3.cdn.digitaloceanspaces.com/wp-content/uploads/2020/08/04192430/AI_designing-with-data.gif" width="550" height="250"/>
 
@@ -12,11 +11,7 @@ Skills: Python / HTML / Hadoop / Tableau / PowerBI
 - 🌱 I’m currently learning OpenCV 
 - 👯 I’m looking to collaborate on Big Data Analysis 
 - ⚡ Fun facts: 
-  - Travelled around the world and settled in Toronto 
+  - Travelled around in Europe, Asia and Americas then settled in Toronto
   - Father of Luna 😺 
   - Former Rower 
-  - The Designated Cook 
-
-
-
-
+  - Designated Cook 
